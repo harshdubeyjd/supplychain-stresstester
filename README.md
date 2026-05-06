@@ -73,7 +73,7 @@ The app will open automatically at **http://localhost:8501**
 
 ---
 
-## 🚀 Suggested Extensions
+## 🚀 Coming Soon Extensions
 
 1. **Live tariff API** — Pull real USITC/WTO tariff schedules as baseline instead of synthetic defaults
 2. **LP Sourcing Optimizer** — Auto-suggest lowest-cost reshoring plan using PuLP or OR-Tools under volume/lead-time constraints
