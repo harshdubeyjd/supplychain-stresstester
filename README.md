@@ -50,13 +50,6 @@ streamlit run app.py
 
 The app will open automatically at **http://localhost:8501**
 
----
-
-## 🌐 Deploy to Streamlit Community Cloud (free)
-
-1. Push the folder to a public GitHub repo
-2. Go to https://share.streamlit.io → "New app"
-3. Point to your `app.py` — done, no extra config needed
 
 ---
 
